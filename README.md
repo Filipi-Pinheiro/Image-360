@@ -27,5 +27,5 @@ To access the website, click on the link below! <br>
 <a href="https://filipi-pinheiro.github.io/Image-360/" target="_blank">Access to website</a>
 
 <p align="center">
- <img width="300" src="src/imagens/1.jpg">
+ <img width="300" src="src/imagens/2.jpg">
 </p>
