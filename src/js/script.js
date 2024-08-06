@@ -9,7 +9,7 @@ const cursor = {
 let currentImage = 1
 
 const updateImage = (direction) => {
-  direction < 0 ? currentImage == 12 ? currentImage = 1 : currentImage += 1 : currentImage == 1 ? currentImage = 12 : currentImage -= 1
+  direction < 0 ? currentImage == 12 ? currentImage = 1 : currentImage += 1 : direction > 0 ? currentImage == 1 ? currentImage = 12 : currentImage -= 1 : currentImage
 
   image.src = `src/imagens/${currentImage}.jpg`
 }
