@@ -31,7 +31,7 @@ To access the website, click on the link below! <br>
  <img width="300" src="src/imagens/2.jpg">
 </p>
 <p align="center">
- <img width="300" src="src/imagens/5.jpg">
+ <img width="300" src="src/imagens/6.jpg">
 </p>
 <p align="center">
  <img width="300" src="src/imagens/12.jpg">
