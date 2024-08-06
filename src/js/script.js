@@ -9,19 +9,7 @@ const cursor = {
 let currentImage = 1
 
 const updateImage = (direction) => {
-  if(direction < 0) {
-    if(currentImage == 12) {
-      currentImage = 1
-    } else {
-      currentImage += 1
-    }
-  } else if (direction > 0) {
-    if(currentImage == 1) {
-      currentImage = 12
-    } else {
-      currentImage -= 1
-    }
-  }
+  direction < 0 ? (currentImage == 12 ? 1 : currentImage + 1) :  (direction > 0 ? ( currentImage == 1 ? 12 : currentImage - 1 ) :  currentImage
 
   image.src = `src/imagens/${currentImage}.jpg`
 }
