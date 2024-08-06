@@ -2,7 +2,7 @@
 
 ## Description
 
- A website I used for studies, which simulates an image that moves 360 degrees according to the interactions the user makes with the mouse.
+ A website I used for studies, which simulates an image that moves in 360 degrees according to the interactions the user makes with the mouse.
 
  ## technologies used
 
