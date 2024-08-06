@@ -1,9 +1,5 @@
 # Image-360
 
-<p align="center">
- <img width="300" src="src/imagens/1.jpg">
-</p>
-
 ## Description
 
  A website I used for studies, which simulates an image that moves in 360 degrees according to the interactions the user makes with the mouse.
@@ -29,3 +25,7 @@
 
 To access the website, click on the link below! <br>
 <a href="https://filipi-pinheiro.github.io/Image-360/" target="_blank">Access to website</a>
+
+<p align="center">
+ <img width="300" src="src/imagens/1.jpg">
+</p>
