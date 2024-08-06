@@ -1,7 +1,7 @@
 # Image-360
 
 <p align="center">
- <img width="150" src="src/imagens/1.jpg">
+ <img width="300" src="src/imagens/1.jpg">
 </p>
 
 ## Description
