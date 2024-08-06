@@ -1,5 +1,9 @@
 # Image-360
 
+<p align="center">
+ <img width="150" src="src/imagens/1.gif">
+</p>
+
 ## Description
 
  A website I used for studies, which simulates an image that moves in 360 degrees according to the interactions the user makes with the mouse.
