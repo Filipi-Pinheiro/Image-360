@@ -28,5 +28,14 @@ To access the website, click on the link below! <br>
 
 #
 <p align="center">
+ <img width="300" src="src/imagens/1.jpg">
+</p>
+<p align="center">
  <img width="300" src="src/imagens/2.jpg">
+</p>
+<p align="center">
+ <img width="300" src="src/imagens/5.jpg">
+</p>
+<p align="center">
+ <img width="300" src="src/imagens/12.jpg">
 </p>
